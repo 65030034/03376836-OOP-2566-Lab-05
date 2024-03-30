@@ -1,4 +1,2 @@
-![ex 5 2 1 2](https://github.com/65030034/03376836-OOP-2566-Lab-05/assets/144875017/6fbf2b62-fda4-457c-a3c1-24b8ce047105)
-![ex 5 2 1 3](https://github.com/65030034/03376836-OOP-2566-Lab-05/assets/144875017/336db8ff-5d20-47fd-a841-834fb2f8d3fe)
-![ex 5 2 2 1](https://github.com/65030034/03376836-OOP-2566-Lab-05/assets/144875017/ef5b450e-0f45-444a-8686-55065e1f9d47)
-![ex 5 2](https://github.com/65030034/03376836-OOP-2566-Lab-05/assets/144875017/9c3e29bd-0c6a-4bfa-bb28-23b55363a135)
+![ex 5 3 2](https://github.com/65030034/03376836-OOP-2566-Lab-05/assets/144875017/a9669c2d-a992-4160-84e8-bc00d1456c16)
+![ex 5 3 1](https://github.com/65030034/03376836-OOP-2566-Lab-05/assets/144875017/7d575763-43d8-4e6e-9476-b8e5afd0480b)
